@@ -320,8 +320,8 @@ h6 { font-size: 16px; }
 	font-weight: 500;
 	transition: all .3s ease;
 }
-.grax_tm_topbar .menu ul li.current a{color: #78c05c;}
-.grax_tm_topbar .menu ul li a:hover{color: #78c05c;}
+.grax_tm_topbar .menu ul li.current a{color: #fcc44b;}
+.grax_tm_topbar .menu ul li a:hover{color: #fcc44b;}
 .grax_tm_topbar.animate .menu ul li a{color: #000;}
 
 /*---------------------------------------------------*/
@@ -782,8 +782,8 @@ h6 { font-size: 16px; }
 	text-decoration: none;
     color: #fff;
     display: inline-block;
-    background-color: #78c05c;
-	border: 2px solid #78c05c;
+    background-color: #fcc44b;
+	border: 2px solid #fcc44b;
     padding: 10px 5px;
     border-radius: 5px;
 	
@@ -812,8 +812,8 @@ h6 { font-size: 16px; }
     text-decoration: none;
     color: #fff;
     display: inline-block;
-    background-color: #78c05c;
-    border: 2px solid #78c05c;
+    background-color: #fcc44b;
+    border: 2px solid #fcc44b;
     padding: 6px 20px;
     border-radius: 5px;
     box-sizing: border-box; /* Asegura que el padding no aumente el ancho */
@@ -845,8 +845,8 @@ h6 { font-size: 16px; }
 	text-decoration: none;
     color: #fff;
     display: inline-block;
-    background-color: #78c05c;
-	border: 2px solid #78c05c;
+    background-color: #fcc44b;
+	border: 2px solid #fcc44b;
     padding: 10px 40px;
     border-radius: 5px;
 	
@@ -886,8 +886,8 @@ h6 { font-size: 16px; }
 	text-decoration: none;
     color: #fff;
     display: inline-block;
-    background-color: #78c05c;
-	border: 2px solid #78c05c;
+    background-color: #fcc44b;
+	border: 2px solid #fcc44b;
     padding: 10px 40px;
     border-radius: 5px;
 	
@@ -999,7 +999,7 @@ h6 { font-size: 16px; }
 }
 .progress_inner .background .bar_in{
 	height:100%;
-	background:#78c05c;
+	background:#fcc44b;
 	width:0px;
 	overflow:hidden;
 	border-radius: 5px;
@@ -1137,7 +1137,7 @@ h6 { font-size: 16px; }
 	clear: both;
 	float: left;
 }
-.grax_tm_title_holder span{color: #78c05c;	}
+.grax_tm_title_holder span{color: #fcc44b;	}
 .grax_tm_title_holder h3{
 	text-transform: uppercase;
 	font-weight: 700;
@@ -1514,7 +1514,7 @@ h6 { font-size: 16px; }
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.grax_tm_news .news_list ul li .details .title a:hover{color: #78c05c;}
+.grax_tm_news .news_list ul li .details .title a:hover{color: #fcc44b;}
 .grax_tm_news .news_list ul li .details .date{
 	text-transform: uppercase;
 	font-family: "Poppins";
@@ -1532,7 +1532,7 @@ h6 { font-size: 16px; }
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.grax_tm_news .news_list ul li .details .date a:hover{color: #78c05c;}
+.grax_tm_news .news_list ul li .details .date a:hover{color: #fcc44b;}
 .grax_tm_news .news_list ul li .details .date span{
 	position: relative;
 	margin-left: 11px;
@@ -1636,7 +1636,7 @@ body.modal{
 .grax_tm_modalbox_news .description blockquote{
 	font-style: italic;
 	color: #000;
-	border-left: 2px solid #78c05c;
+	border-left: 2px solid #fcc44b;
 	padding-left: 20px;
 	margin-bottom: 15px;
 }
@@ -1681,7 +1681,7 @@ body.modal{
     -o-transition: all .3s ease;
     transition: all .3s ease;
 }
-.grax_tm_modalbox_news .date a:hover{color: #78c05c;}
+.grax_tm_modalbox_news .date a:hover{color: #fcc44b;}
 .grax_tm_modalbox_news .date span{
 	position: relative;
     margin-left: 11px;
@@ -1916,7 +1916,7 @@ body.modal{
 	height: auto;
 	clear: both;
 	float: left;
-	background-color: #000;
+	background-color: #fcc44b;
 	padding: 130px 0px 100px 0px;
 	position: relative;
 }
@@ -2532,7 +2532,7 @@ body.dark .grax_tm_settings .cursor li .svg,
 .grax_tm_intro_fixed_price .anim {text-decoration: none;
 	color: #fff;
     font-family: "Montserrat";
-    background-color: #78c05c;
+    background-color: #fcc44b;
     position: fixed;
     font-size: 22px;
     text-align: center;

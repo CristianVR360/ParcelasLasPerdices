@@ -11,7 +11,7 @@
 .grax_tm_settings .colors li a.purple{background-color: #9200ee;}
 .grax_tm_settings .colors li a.sky{background-color: #00D4BD;}
 .grax_tm_settings .colors li a.cadetBlue{background-color: #5e9e9f;}
-.grax_tm_settings .colors li a.crimson{background-color: #78c05c;}
+.grax_tm_settings .colors li a.crimson{background-color: #fcc44b;}
 .grax_tm_settings .colors li a.olive{background-color: #666d41;}
 .grax_tm_settings .colors li a.red{background-color: #fe0000;}
 
@@ -148,16 +148,16 @@
 .grax_tm_all_wrap[data-color="olive"] .progress_inner .background .bar_in{background: #666d41;}
 
 
-.grax_tm_all_wrap[data-color="crimson"] .grax_tm_topbar .menu ul li.current a{color: #78c05c;}
-.grax_tm_all_wrap[data-color="crimson"] .grax_tm_topbar .menu ul li a:hover{color: #78c05c;}
-.grax_tm_all_wrap[data-color="crimson"] .grax_tm_title_holder span{color: #78c05c;}
-.grax_tm_all_wrap[data-color="crimson"] .grax_tm_button a{background-color: #78c05c;border-color:#78c05c;}
-.grax_tm_all_wrap[data-color="crimson"] .grax_tm_news .news_list ul li .details .title a:hover{color: #78c05c;}
-.grax_tm_all_wrap[data-color="crimson"] .grax_tm_news .news_list ul li .details .date a:hover{color: #78c05c;}
-.grax_tm_all_wrap[data-color="crimson"] .cursor-inner.cursor-hover{background-color: #78c05c;}
-.grax_tm_all_wrap[data-color="crimson"] .cursor-outer{border-color: #78c05c;}
-.grax_tm_all_wrap[data-color="crimson"] .cursor-inner{background-color: #78c05c;}
-.grax_tm_all_wrap[data-color="crimson"] .progress_inner .background .bar_in{background: #78c05c;}
+.grax_tm_all_wrap[data-color="crimson"] .grax_tm_topbar .menu ul li.current a{color: #fcc44b;}
+.grax_tm_all_wrap[data-color="crimson"] .grax_tm_topbar .menu ul li a:hover{color: #fcc44b;}
+.grax_tm_all_wrap[data-color="crimson"] .grax_tm_title_holder span{color: #fcc44b;}
+.grax_tm_all_wrap[data-color="crimson"] .grax_tm_button a{background-color: #fcc44b;border-color:#fcc44b;}
+.grax_tm_all_wrap[data-color="crimson"] .grax_tm_news .news_list ul li .details .title a:hover{color: #fcc44b;}
+.grax_tm_all_wrap[data-color="crimson"] .grax_tm_news .news_list ul li .details .date a:hover{color: #fcc44b;}
+.grax_tm_all_wrap[data-color="crimson"] .cursor-inner.cursor-hover{background-color: #fcc44b;}
+.grax_tm_all_wrap[data-color="crimson"] .cursor-outer{border-color: #fcc44b;}
+.grax_tm_all_wrap[data-color="crimson"] .cursor-inner{background-color: #fcc44b;}
+.grax_tm_all_wrap[data-color="crimson"] .progress_inner .background .bar_in{background: #fcc44b;}
 
 
 .grax_tm_all_wrap[data-color="red"] .grax_tm_topbar .menu ul li.current a{color: #fe0000;}
