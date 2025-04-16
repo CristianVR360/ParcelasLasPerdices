@@ -1729,6 +1729,55 @@ body.modal{
 
 
 
+/*---------------------------------------------------*/
+/*	09) FAQ
+/*---------------------------------------------------*/
+
+.grax_tm_faq-container {
+	max-width: 800px;
+	margin: 60px auto 0 auto; /* Aumenta la separación superior */
+	padding: 20px;
+	font-family: Arial, sans-serif;
+}
+#financiamientoContainer {
+	margin-top: 100px; /* O más para probar */
+}
+
+
+.grax_tm_faq-title {
+	
+	text-align: center;
+	font-size: 1.8rem;
+	margin-bottom: 20px;
+	color: #333;
+}
+
+.grax_tm_faq-item {
+	margin-bottom: 10px;
+	border: 1px solid #ccc;
+	border-radius: 8px;
+	overflow: hidden;
+}
+
+.grax_tm_faq-question {
+	background-color: #f7f7f7;
+	padding: 15px;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.grax_tm_faq-answer {
+	display: none;
+	padding: 15px;
+	background-color: #fff;
+	color: #555;
+}
+
+.grax_tm_faq-answer.active {
+	display: block;
+}
+
+
 
 
 

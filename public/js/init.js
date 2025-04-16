@@ -843,3 +843,15 @@ function grax_tm_totop(){
         });
     });
 
+	
+/****************************/ 
+/******** FAQ section********/ 
+/****************************/ 
+const faqItems = document.querySelectorAll('.grax_tm_faq-question');
+
+faqItems.forEach(item => {
+	item.addEventListener('click', () => {
+		const answer = item.nextElementSibling;
+		answer.classList.toggle('active');
+	});
+});
